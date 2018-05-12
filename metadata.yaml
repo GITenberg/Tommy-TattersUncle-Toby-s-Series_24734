@@ -1,0 +1,32 @@
+_repo: Tommy-TattersUncle-Toby-s-Series_24734
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 24734-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2008-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24734'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poor -- Juvenile poetry'
+- !lcsh 'Hygiene -- Juvenile poetry'
+- !lcsh 'Charity -- Juvenile poetry'
+- !lcc 'PZ'
+- !lcsh 'Picture books for children'
+- !lcsh 'Children''s poetry'
+title: 'Tommy Tatters
+
+  Uncle Toby''s Series'
+url: http://www.gutenberg.org/ebooks/24734
